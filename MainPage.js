@@ -15,8 +15,8 @@ class registerPatient extends Component {
             residence: "",
             subject: "",
             gender: "",
-            ipfsHash: "waiting..",
-            buffer: "waiting.."
+            ipfsHash: "waiting...",
+            buffer: "waiting..."
         };
         this.handleSubmit = this.handleSubmit.bind(this);
         this.handleChange = this.handleChange.bind(this);
